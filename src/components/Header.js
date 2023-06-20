@@ -1,4 +1,4 @@
-import "../Header.css"
+import "./Header.css"
 
 function Header() {
 return (<h1 className="Header">This is a HEADER</h1>)};
